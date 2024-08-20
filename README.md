@@ -11,6 +11,8 @@ This is a small set of cute stylised low-poly game assets to make a cozy little 
 - Models are included as **.OBJ, .FBX** and **.GLTF,** That means the files work in most 3D game engines (including **Unity, Godot, Unreal Engine, Roblox,** and more)
 - **Free for personal and commercial use,** no attribution required. (CC0 Licensed)
 
+[![Assets overview](https://img.itch.zone/aW1hZ2UvMjg4NDg0Mi8xNzM0NTEwOS5wbmc=/original/CpkPD3.png)](https://tinytreats.itch.io/bubbly-bathroom)
+
 <hr>
 
 [![Support on Patreon](https://img.itch.zone/aW1nLzE3MzUyMTA0LnBuZw==/original/XXmgKx.png)](https://www.patreon.com/tinytreats)
